@@ -151,13 +151,14 @@ For the full documentation, start with the [Documentation Index](docs/index.md).
 
 ## License
 
-[This project is provided as-is for demonstration purposes.]
+This project is provided as-is for demonstration purposes.
 
 ## Contributing
 
-[Add contribution guidelines if applicable]
+can contribute connect with me[pankaj_baviskar@hotmil.com]
 
 ## Author
 
-[Pankaj Baviskar]
+Pankaj Baviskar[Pankaj_Baviskar@hotmail.com]
+
 
