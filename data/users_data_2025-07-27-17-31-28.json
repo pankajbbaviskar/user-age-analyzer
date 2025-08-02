@@ -1,0 +1,29 @@
+[
+  {
+    "name": {
+      "first": "John",
+      "last": "Doe"
+    },
+    "dob": {
+      "age": 25
+    }
+  },
+  {
+    "name": {
+      "first": "Jane",
+      "last": "Smith"
+    },
+    "dob": {
+      "age": 35
+    }
+  },
+  {
+    "name": {
+      "first": "Bob",
+      "last": "Johnson"
+    },
+    "dob": {
+      "age": 45
+    }
+  }
+]
