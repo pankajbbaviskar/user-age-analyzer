@@ -151,7 +151,7 @@ For the full documentation, start with the [Documentation Index](docs/index.md).
 
 ## License
 
-[Add your license information here]
+[This project is provided as-is for demonstration purposes.]
 
 ## Contributing
 
@@ -159,4 +159,5 @@ For the full documentation, start with the [Documentation Index](docs/index.md).
 
 ## Author
 
-[Add your name or contact information]
+[Pankaj Baviskar]
+
